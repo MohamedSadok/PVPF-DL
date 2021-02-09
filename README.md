@@ -1,5 +1,5 @@
 # Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends
-The references and materials for "Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects".
+The references and materials for "Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends".
 
 ## 1. Citation
 Use this bibtex to cite this repository:
