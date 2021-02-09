@@ -6,7 +6,7 @@ Use this bibtex to cite this repository:
 
 @ARTICLE{xx,
   author={Massaoudi. {Mohamed} et al},
-  journal={Journal of Modern Power Systems and Clean Energy}, 
+  journal={CSEE Journal of Power and Energy Systems}, 
   title={Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends}, 
   year={2021},
   volume={xx},
@@ -16,7 +16,7 @@ Use this bibtex to cite this repository:
   
   ## 2. Hybrid DL models
   
-- MCTDR-MLP	[Reservoir Computing Meets Smart Grids: Attack Detection Using Delayed Feedback Networks](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Reservoir%20Computing%20Meets%20Smart%20Grids:%20Attack%20Detection%20Using%20Delayed%20Feedback%20Networks)
+- MLP3	[Accuracy Improvement of Energy Prediction for Solar-Energy-Powered Embedded Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7332959)
 
 - dLASSO-MLP	[A Data-Driven Soft Sensor Based on Multilayer Perceptron Neural Network With a Double LASSO Approach](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Data-Driven%20Soft%20Sensor%20Based%20on%20Multilayer%20Perceptron%20Neural%20Network%20With%20a%20Double%20LASSO%20Approach)
 
