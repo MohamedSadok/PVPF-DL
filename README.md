@@ -1,17 +1,17 @@
-# Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends
-The references and materials for "Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends".
+# Convergence of Photovoltaic Power Forecasting and Deep Learning: State-of-Art Review
+The references and materials for "Convergence of Photovoltaic Power Forecasting and Deep Learning: State-of-Art Review".
 
 ## 1. Citation
 Use this bibtex to cite this repository:
 
 @ARTICLE{xx,
   author={Massaoudi. {Mohamed} et al},
-  journal={CSEE Journal of Power and Energy Systems}, 
-  title={Recent Advances of Deep Learning Methods for PV Power Forecasting: A State-of-The-Art Review With an Outlook to The Future Trends}, 
+  journal={IEEE Access}, 
+  title={Convergence of Photovoltaic Power Forecasting and Deep Learning: State-of-Art Review}, 
   year={2021},
   volume={xx},
   number={xx},
-  pages={1-12},
+  pages={1-18},
   doi={xxxx/MPCE.2021.xxxxx}}
   
   ## 2. DL models
