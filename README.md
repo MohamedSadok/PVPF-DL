@@ -40,4 +40,4 @@ Use this bibtex to cite this repository:
 
 ## 3. Research Methodology
 The methodology of this review is given in 
-![Alt text](https://github.com/MohamedSadok/PVPF-DL/blob/main/pv%20Review-Page-30.png)
+![Alt text](https://github.com/MohamedSadok/PVPF-DL/blob/main/pv%20Review-selection.png)
